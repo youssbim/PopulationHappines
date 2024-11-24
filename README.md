@@ -26,7 +26,7 @@ A Streamlit app that visualizes and analyzes the factors contributing to happine
 ## Usage
 1. Run the Streamlit app:
    ```
-   streamlit run modified_main.py
+   streamlit run main.py
    ```
 2. Use the app interface to explore and analyze the happiness data:
    - Select different metrics for scatter plot analysis.
